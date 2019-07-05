@@ -24,4 +24,6 @@
   
 3. number:串口数字的数码管动态显示函数
 
-   3.1 number:包含代码number与电路图
+   3.1 number:单位数码管显示控制，包含代码number与电路图
+   
+   3.2 number_4:多位数码管显示控制，包含代码number_4与电路图
